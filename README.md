@@ -1,2 +1,2 @@
 # Beginner
-This repo create to Understand and explore the Git&amp;GitHub
+This repo create to Understand and explore the Git&amp;GitHub.
